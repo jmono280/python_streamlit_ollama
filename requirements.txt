@@ -1,0 +1,9 @@
+python-dotenv
+langchain-community
+langchain-openai
+tiktoken 
+langchain
+langchain-ollama
+langchain-chroma
+pandas
+streamlit
