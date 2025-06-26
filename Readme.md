@@ -19,7 +19,7 @@ local_ollama_streamlit/
 │   │   └── llm_service.py      # Class to handle Ollama interactions
 │   ├── ui/                     # Directory for model-specific code
 │   │   └── view.py             # Class to handle Ollama interactions
-│   └── utils.py                # Utility functions
+│   └── utils/                  # Utility functions
 │   │   └── print_in_color.py   # Class to handle Ollama interactions
 │   ├── .env                    # Environment variables
 │   └── config.py               # Environment variables initialization

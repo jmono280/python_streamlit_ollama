@@ -1,7 +1,7 @@
 import streamlit as st
 from src.models.model import ModelManager
 from src.services.llm_service import LLMService
-from src.ui.view import View, QueryForm, ResultsDisplay, QueryChatForm
+from src.ui.view import View, ResultsDisplay, QueryChatForm
 import time
 
 
